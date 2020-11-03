@@ -1,4 +1,4 @@
-# project-three
+# beer-evalulator-project
 
 
 
